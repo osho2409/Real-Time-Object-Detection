@@ -1,0 +1,43 @@
+```gitignore
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.log
+
+# Virtual Environment
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# -----------------------------
+# Flutter
+# -----------------------------
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.packages
+
+# Android
+mobile/android/.gradle/
+mobile/android/local.properties
+
+# Generated files
+mobile/.metadata
+
+# -----------------------------
+# Operating System
+# -----------------------------
+.DS_Store
+Thumbs.db
+Desktop.ini
+```

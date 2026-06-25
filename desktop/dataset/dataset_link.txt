@@ -1,0 +1,10 @@
+The dataset used for training is not included in this repository because it exceeds GitHub's file size limit.
+
+Dataset link:
+
+https://drive.google.com/file/d/14xipqIAFPVL9N_BkIa4XJJdZ8qondXOl/view?usp=drive_link
+
+The dataset contains:
+- Open-source annotated images for Bottle and Mug classes.
+- Manually collected and annotated images for the Remote class.
+- Additional manually annotated images used to improve robustness and class balance.
