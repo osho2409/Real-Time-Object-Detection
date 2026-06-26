@@ -328,6 +328,7 @@ The system may experience reduced performance under the following conditions:
 * Extremely low-light environments
 * Multiple overlapping objects
 * Uncommon object orientations
+* Long horizontal narrow objects gets confused for remotes and bottles.
 
 During testing, however, the deployed Android application demonstrated successful detection of some horizontally oriented bottles that were previously challenging during desktop experimentation.
 
